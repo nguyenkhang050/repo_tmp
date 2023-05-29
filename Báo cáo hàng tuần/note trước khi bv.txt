@@ -1,0 +1,8 @@
++ xem lại cách điều khiển robot bằng thư viện accel stepper		(28/5) (o)
++ xem lại opc ua (giao thức giữa 2 pm)					(28/5) ()
++ mod lại website							(28/5) (o)
++ đọc code để tối ưu trong phần lập lịch				()	
++ làm tối ưu lại phần mềm mô phỏng (đồ thị, lập trình, tọa độ)		(28/5) (oxo) 
++ xem có làm được mô phỏng online ko					()
++ xem có làm được cái token đăng nhập ko, quên mật khẩu?		()
++ tính điểm kỳ dị							()
